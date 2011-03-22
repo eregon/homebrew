@@ -1,6 +1,6 @@
 require 'formula'
 
-class Tsocks <Formula
+class Tsocks < Formula
   # The original is http://tsocks.sourceforge.net/
   # This GitHub repo is a maintained fork with OSX support
   head 'git://github.com/pc/tsocks.git'
